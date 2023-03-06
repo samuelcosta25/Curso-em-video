@@ -1,0 +1,15 @@
+A internet foi criada a guerra fria pela DARPA nos EUA, por razões de que os militares americanos queriam guardar dados e informações importantes em mais de uma base militar, com receio de que algum ataque destruisse um local aonde estariam as mesmas, e fossem perdidas para sempre. Visto isso, se fazia necessário criar um rede de comunicação no país. Foi ai que se deu início a ARPANET, rede utilizada inicialmente para comunicação entre 4 computadores estratégicos para armazanamento de informações. os 4 PCs eram totalmente diferentes, por isso se fez necessário criar uma rede em que os 4 pudessem utilizar. O protocolo utilizado era o NCP, totalmente precário e limitado, no qual uma comunicação (entre de 2 pcs) acontecia por vez. Mais tarde, com a expansão de pontos e computadores, a utilização do protocolo NCP era inviável, devido a sua limitação de demora e não funcionar simultaneamente.
+
+Em 1972, Bob Kahn criou um protocolo chamado TCP - Transfer Control Protocol, aonde agora as comunicações aconteciam de forma simultanea e não se precisava esperar mais tanto tempo, eliminando esse problema do NCP. Porém ainda existia uma dificuldade de identificar os pontos de comunicação (PC), e foi ai que outro cara chamado Vint Cerf no mesmo ano, criou um protocolo de identificação das máquinas, chamado de IP. Mais tarde a união dos dois daria origem ao protocolo que ainda utilizamos hoje em dia: o TCP/IP.
+
+Mais tarde a ARPANET foi subdiivida em:
+Milnet - Rede militar
+NSFNET - Rede para uso da ciência (Nacional Science Fundation)
+Comercial - o próprio nome diz.
+
+Criou-se também uma comunicação entre essas subredes, chamada de interconnect networking, mais tarde virando internetworking e por fim, internet.
+
+Sobre o envio de informações de um ponto a outro (seja imagens, documentos, emails, etc), funciona da seguinte forma: o procotolo TCP/IP no ponto A, quebra o arquivo em milhões de pacotes, envia para um servidor (pode ser por rotas e ordem diferentes) e depois chega no ponto B, aonde o TCP/IP faz o papel de reunir novamente os pacotes pra formar exatamente o arquivo que foi enviado.
+
+Tim Berners Lee criou o protocolo HTTP aonde era possível obter links de navegação e a linguagem de marcação responsável pela edição e criação dessa tecnologia, o HTML.
+Tim também criou o "WWW" - World Wide Web, que nada mais é uma subrede ou uma parte da internet, voltada para o HTTP, ou seja, a web em si.

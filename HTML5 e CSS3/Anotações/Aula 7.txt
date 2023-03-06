@@ -1,0 +1,7 @@
+"PCs não são inteligentes, só são burros muito rápidos". Eles são equipamentos eletrônicos, que interpretam sinais binários, ou seja, 0 e 1. Aonde 0 é ausência de tensão e 1 o sinal de tensão. Esses sinais são chamados de binary digit ou abreviando: bit. 8 bits formam uma sequência chamada de byte, que nada mais é do que a quantidade mínima de bits para formar uma informação. Cada letra do teclado por exemplo, tem uma combinação específica de bits, formando um byte específico também, a tabela desses valores se chama tabela códigos multibytes UTF-8.
+
+A sequência de bytes: Bytes (B) = 8bits - KiloBytes (KB) = 1024B - MegaBytes (MB) = 1024KB - GigaBytes (GB) = 1024MB - TeraBytes (TB) = 1024GB - PetaByte (PB) = 1024TB - ExaByte (EB) = 1024PB - ZetaByte (ZB) = 1024EB - YotaByte (YB) = 1024ZB.
+
+Os roteadores são cruciais para os sistemas de transmissão de dados e comunicação, são eles responsáveis por fazer a modulação: Transformação de sinais em ondas quadradas do PC em ondas senoidais dos sistemas de internet e telefone; e fazer a demodulação: processo contrário da modulação, senóides em ondas quadradas. Juntando os préfixos dos dois procedimentos MO+DEM, se dá o nome dos equipamentos: modem.
+
+Todo site é um endereço de IP, porem está registrado com um DNS (Domínio), e quando acessado, o DNS chama o endereço IP.

@@ -1,0 +1,19 @@
+Boa parte do material sugerido está no Link GitHub Gustavo Guanabara - https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf
+
+Plataformas de conteúdo sobre HTML5 e CSS3:
+-MDN: Mozzila Developer Network;
+-W3C Standards (oficial);
+-WHATWG Living Standard;
+-W3Schools;
+
+HTML5 Entendendo e Executando - Editora O'Reilly - Mark Pilgrim
+CSS - Editora O'Reilly - Eric Meyer
+Flexbox in CSS - Editora O'Reilly - Estelle Weyl
+Grid Layout in CSS - Editora O'Reilly - Eric Meyer
+
+HTML5 e CSS3 Sétima edição- Editora Alta Books - Elizabeth Castro e Bruce Hyslop
+HTML e CSS Projete e construa websites - Editora Alta Books - Jon Duckett
+HTML e CSS Use a cabeça - Editora Alta Books - Elizabeth Robson e Eric Freeman
+Crie seu próprio site - Editora Novatec - Nate Cooper e Kim Gee
+
+Livros do Mauricio Samy Silva - Editora Novatec: 4 livros sobre HTML5, CSS3, fundamentos de HTML e Grid Layout em CSS, respectivamente.
