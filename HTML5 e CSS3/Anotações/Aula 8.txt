@@ -1,1 +1,9 @@
-﻿
+Domínio: Nome do site registrad. Cada domínio  é úni.
+Hospedagem:  Aonde seu site es´ta hospedado (guardado), ou seja, servidor.
+URL: Uniform Resource Locator  
+TLD: Top Level Domain (.com - .org - .net)
+CCTLD: TLP de países (.br - .ar)
+GTLD: TLD genérico (.io - .store)
+subdominio: www.
+Caminho: dados após a barra "/".
+Https: Protocolo.
