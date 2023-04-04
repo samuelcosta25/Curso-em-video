@@ -1,0 +1,14 @@
+HTML = HiperText Markup Language
+CSS = Cascading Style Sheets
+
+Nomes auto explicativos.
+
+HTML é linguagem focada em conteúdos, ou seja, o front-end dos sites/pages.
+
+CSS é focado em design e organização dos conteúdos do HTML.
+
+JavaScript é focado em interações do site com o usuário, na navegação.
+
+Para estilização em css se chama as Tags com o nome somente e chaves. Ex: h1 {}
+
+
